@@ -1,0 +1,274 @@
+{
+"Questions":[
+ {
+  "questionText": "What is Unity primarily used for?",
+  "option1": "Web Development",
+  "option2": "Game Development",
+  "option3": "Data Analysis",
+  "option4": "Machine Learning",
+  "correctAnswerIndex": 2,
+  "pointValue": 10
+ },
+ {
+  "questionText": "What language is primarily used in Unity scripts?",
+  "option1": "Python",
+  "option2": "JavaScript",
+  "option3": "C#",
+  "option4": "C++",
+  "correctAnswerIndex": 3,
+  "pointValue": 10
+ },
+ {
+  "questionText": "What is the file extension for a Unity scene?",
+  "option1": ".unity",
+  "option2": ".scene",
+  "option3": ".scn",
+  "option4": ".uscn",
+  "correctAnswerIndex": 1,
+  "pointValue": 5
+ },
+ {
+  "questionText": "Which of the following is a Unity physics engine?",
+  "option1": "Havok",
+  "option2": "PhysX",
+  "option3": "Bullet",
+  "option4": "Odin",
+  "correctAnswerIndex": 2,
+  "pointValue": 15
+ },
+ {
+  "questionText": "What is the purpose of the Unity Asset Store?",
+  "option1": "Selling Unity Licenses",
+  "option2": "Providing Game Tutorials",
+  "option3": "Downloading Game Assets",
+  "option4": "Learning Programming",
+  "correctAnswerIndex": 3,
+  "pointValue": 10
+ },
+ {
+  "questionText": "What is a GameObject in Unity?",
+  "option1": "An element in the Unity editor",
+  "option2": "An object in the game scene",
+  "option3": "A class used for scripting",
+  "option4": "A component added to scripts",
+  "correctAnswerIndex": 2,
+  "pointValue": 10
+ },
+ {
+  "questionText": "Which Unity component is used for rendering 3D models?",
+  "option1": "Animator",
+  "option2": "Camera",
+  "option3": "Mesh Renderer",
+  "option4": "Sprite Renderer",
+  "correctAnswerIndex": 3,
+  "pointValue": 10
+ },
+ {
+  "questionText": "What is the default 3D object in Unity?",
+  "option1": "Cube",
+  "option2": "Sphere",
+  "option3": "Plane",
+  "option4": "Capsule",
+  "correctAnswerIndex": 1,
+  "pointValue": 5
+ },
+ {
+  "questionText": "Which method is called once per frame in Unity?",
+  "option1": "Awake()",
+  "option2": "Update()",
+  "option3": "FixedUpdate()",
+  "option4": "Start()",
+  "correctAnswerIndex": 2,
+  "pointValue": 10
+ },
+ {
+  "questionText": "What does Time.deltaTime represent?",
+  "option1": "The total time since the game started",
+  "option2": "The time between frames",
+  "option3": "The time to load the scene",
+  "option4": "The time a script takes to run",
+  "correctAnswerIndex": 2,
+  "pointValue": 10
+ },
+ {
+  "questionText": "What is the Unity Prefab system used for?",
+  "option1": "To create reusable GameObjects",
+  "option2": "To generate materials",
+  "option3": "To define physics properties",
+  "option4": "To edit animations",
+  "correctAnswerIndex": 1,
+  "pointValue": 15
+ },
+ {
+  "questionText": "What is the shortcut key to play the scene in Unity?",
+  "option1": "Ctrl + P",
+  "option2": "Shift + P",
+  "option3": "Alt + P",
+  "option4": "Space",
+  "correctAnswerIndex": 1,
+  "pointValue": 5
+ },
+ {
+  "questionText": "Which component is used to detect collisions in Unity?",
+  "option1": "Rigidbody",
+  "option2": "Box Collider",
+  "option3": "Animator",
+  "option4": "Transform",
+  "correctAnswerIndex": 2,
+  "pointValue": 10
+ },
+ {
+  "questionText": "Which Unity version introduced the Universal Render Pipeline (URP)?",
+  "option1": "2018.3",
+  "option2": "2019.3",
+  "option3": "2020.1",
+  "option4": "2021.1",
+  "correctAnswerIndex": 2,
+  "pointValue": 20
+ },
+ {
+  "questionText": "Which Unity feature allows for testing scripts without entering play mode?",
+  "option1": "Live Testing",
+  "option2": "Script Debugging",
+  "option3": "Play Mode Test",
+  "option4": "ExecuteInEditMode",
+  "correctAnswerIndex": 4,
+  "pointValue": 20
+ },
+ {
+  "questionText": "Which Unity package is used for 2D animations?",
+  "option1": "Sprite Editor",
+  "option2": "Timeline",
+  "option3": "Animator",
+  "option4": "2D Animation",
+  "correctAnswerIndex": 4,
+  "pointValue": 15
+ },
+ {
+  "questionText": "What is Unity’s default scripting backend?",
+  "option1": "Mono",
+  "option2": "IL2CPP",
+  "option3": ".NET Core",
+  "option4": "Xamarin",
+  "correctAnswerIndex": 1,
+  "pointValue": 10
+ },
+ {
+  "questionText": "What is a Transform in Unity?",
+  "option1": "Defines the GameObject's position, rotation, and scale",
+  "option2": "Handles collisions",
+  "option3": "Manages GameObject materials",
+  "option4": "Renders GameObjects in the scene",
+  "correctAnswerIndex": 1,
+  "pointValue": 10
+ },
+ {
+  "questionText": "Which Unity tool is used for UI design?",
+  "option1": "NavMesh",
+  "option2": "Canvas",
+  "option3": "Timeline",
+  "option4": "Cinemachine",
+  "correctAnswerIndex": 2,
+  "pointValue": 15
+ },
+ {
+  "questionText": "What file format is typically used for Unity packages?",
+  "option1": ".unitypkg",
+  "option2": ".unitypackage",
+  "option3": ".pkg",
+  "option4": ".upkg",
+  "correctAnswerIndex": 2,
+  "pointValue": 5
+ },
+ {
+  "questionText": "What does Rigidbody add to a GameObject?",
+  "option1": "Material properties",
+  "option2": "Physics interactions",
+  "option3": "Texture rendering",
+  "option4": "Sound effects",
+  "correctAnswerIndex": 2,
+  "pointValue": 10
+ },
+ {
+  "questionText": "Which Unity service is used for analytics?",
+  "option1": "Unity Ads",
+  "option2": "Unity Collaborate",
+  "option3": "Unity Analytics",
+  "option4": "Unity Cloud",
+  "correctAnswerIndex": 3,
+  "pointValue": 15
+ },
+ {
+  "questionText": "Which Unity feature supports real-time lighting?",
+  "option1": "Baked GI",
+  "option2": "Realtime GI",
+  "option3": "Light Probes",
+  "option4": "Shadow Maps",
+  "correctAnswerIndex": 2,
+  "pointValue": 20
+ },
+ {
+  "questionText": "What does 'SerializeField' do in Unity?",
+  "option1": "Prevents a variable from being serialized",
+  "option2": "Exposes a private variable in the Inspector",
+  "option3": "Forces a variable to update every frame",
+  "option4": "Hides a variable in the Inspector",
+  "correctAnswerIndex": 2,
+  "pointValue": 20
+ },
+ {
+  "questionText": "What is the Unity Terrain system used for?",
+  "option1": "Creating 2D levels",
+  "option2": "Generating 3D landscapes",
+  "option3": "Managing water effects",
+  "option4": "Handling AI navigation",
+  "correctAnswerIndex": 2,
+  "pointValue": 15
+ },
+ {
+  "questionText": "What is Unity's default unit of measurement?",
+  "option1": "Meters",
+  "option2": "Centimeters",
+  "option3": "Inches",
+  "option4": "Pixels",
+  "correctAnswerIndex": 1,
+  "pointValue": 10
+ },
+ {
+  "questionText": "Which method is used for loading scenes in Unity?",
+  "option1": "LoadScene()",
+  "option2": "SceneManager.LoadScene()",
+  "option3": "Application.LoadScene()",
+  "option4": "SceneLoader.Load()",
+  "correctAnswerIndex": 2,
+  "pointValue": 15
+ },
+ {
+  "questionText": "What does Unity's 'NavMesh' system provide?",
+  "option1": "Mesh Rendering",
+  "option2": "AI Pathfinding",
+  "option3": "Physics Calculations",
+  "option4": "UI Management",
+  "correctAnswerIndex": 2,
+  "pointValue": 15
+ },
+ {
+  "questionText": "Which component is used to detect collisions in Unity?",
+  "option1": "Rigidbody",
+  "option2": "Box Collider",
+  "option3": "Animator",
+  "option4": "Transform",
+  "correctAnswerIndex": 2,
+  "pointValue": 10
+ },
+ {
+  "questionText": "What is a GameObject in Unity?",
+  "option1": "An element in the Unity editor",
+  "option2": "An object in the game scene",
+  "option3": "A class used for scripting",
+  "option4": "A component added to scripts",
+  "correctAnswerIndex": 2,
+  "pointValue": 10
+ }
+]
+}
